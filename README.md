@@ -31,5 +31,5 @@
 
    ```bash
    git clone https://github.com/jerrynicke/aws_sso__policy_exporter.git
-   cd aws-iam-policy-exporter
+   cd aws_sso__policy_exporter
    ```
