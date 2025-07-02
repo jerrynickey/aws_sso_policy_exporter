@@ -30,6 +30,6 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jerrynicke/aws_sso__policy_exporter.git
+   git clone https://github.com/jerrynicke/aws_sso_policy_exporter.git
    cd aws_sso_policy_exporter
    ```
